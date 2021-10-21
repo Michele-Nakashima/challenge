@@ -1,6 +1,6 @@
-# Challenge
+# SUCH WOW PETS :smiley_cat:
 
-Em construção :construction:
+Criação de um assistente virtual em ChatBot.
 
 ## Petshop [Fluxo Conversacional]
 
