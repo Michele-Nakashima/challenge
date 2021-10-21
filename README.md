@@ -6,7 +6,7 @@ Criação de um assistente virtual [ChatBot]
 
 Em construção  :construction:
 
-## Integrantes
+## Equipe 
 
 <table>
   <tbody><tr>
