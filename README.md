@@ -22,5 +22,11 @@ do fluxo conversacional.
             <td align="center"><a href="https://github.com/bebelicha" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/61983593?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Isabela Fernandes</b></sub></a><br> 
                <td align="center"><a href="https://github.com/lviaribeiro" rel="nofollow"><img src="https://avatars.githubusercontent.com/u/69217415?v=4" width="100px;" alt="" style="max-width: 100%;"><br><sub><b>Lívia Ribeiro</b></sub></a><br> 
               
-                
+                     
+</tbody></table>
+
+## Agradecimentos
+
+A equipe agradece a Take Blip por proporcionar essa tarde de muita troca e aprendizado!
+
         
