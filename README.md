@@ -9,7 +9,7 @@ Esse chatbot faz parte de um desafio proposto pela Team Take Blip para jovens as
 O desafio consiste em criar um chatbot funcional a partir de um "Onboarding" original cedido para auxiliar na criação
 do fluxo conversacional. 
 
-## DownLoad do arquivo em formato .json
+## Link dos arquivos em formato .json
 
 - [Fluxo](https://github.com/Michele-Nakashima/challenge/blob/main/testedinamica1%20(1).json)
 - [Hotel](https://github.com/Michele-Nakashima/challenge/blob/main/testedinamica1%20(1).json)
