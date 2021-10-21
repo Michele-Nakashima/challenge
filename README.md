@@ -1,6 +1,6 @@
-# SUCH WOW PETS :smiley_cat:
+# SUCH WOW PETS :smiley_cat: :dog:
 
-Criação de um assistente virtual em ChatBot.
+Criação de um assistente virtual [ChatBot]
 
 ## Petshop [Fluxo Conversacional]
 
