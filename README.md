@@ -5,6 +5,7 @@ Criação de um assistente virtual [ChatBot]
 ## Petshop [Fluxo Conversacional]
 
 Esse chatbot faz parte de um desafio proposto pela Team Take Blip para jovens aspirantes a desenvolvedores. 
+
 O desafio consiste em criar um chatbot funcional a partir de um "Onboarding" original cedido para auxiliar na criação
 do fluxo conversacional. 
 
