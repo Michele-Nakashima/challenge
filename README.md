@@ -1,4 +1,4 @@
-# SUCH WOW PETS :smiley_cat: :dog:
+# Such Wow PeTs :smiley_cat: :dog:
 
 Criação de um assistente virtual [ChatBot]
 
